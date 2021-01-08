@@ -41,7 +41,7 @@
             <li><p>'My wallet' and 'Sender' are kind of responsive, 'Stadistics' is not responsive at all...</p></li>
             <li><p>'My wallet' is one of the first so, it has no AJAX, that's why you are going to find many files in it.</p></li>
             <li><p>For simplicity to upload the site, the three are connected to the same database (it is all messed up) But they had their own DB at the beginning.</p></li>
-            <li><p>Source code:  <a href="https://github.com/estoquin/php_work.git">https://github.com/estoquin/php_work.git</a></p></li>
+            <li><p>Source code:  <a href="https://github.com/estoquin/php_work.git" target="_blank">https://github.com/estoquin/php_work.git</a></p></li>
             <li><p style="color:red;">'Sender' is not gonna work because of the server where it is hosted, i am having troubles setting up the mailer...</p></li>
         </ul>
         <p class="text-right cp">Copyright 2021, Nicolas Estoquin, All rights reserved.</p>
