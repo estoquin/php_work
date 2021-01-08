@@ -1,0 +1,37 @@
+body{
+    font-family: sans-serif;
+    overflow-x: hidden;
+}
+.app{
+    background-color: #212121;
+    color: #ffffff;
+}
+
+.app:hover{
+    transform: scale(1.02);
+    transition: 0.1s;
+    cursor: pointer;
+}
+
+img{
+    width: 150px;
+    height: auto;
+}
+
+p{
+    font-size: 1.2rem;
+}
+
+.explanation{
+    background-color: #212121;
+    color: #ffffff;
+}
+
+.title{
+    color: #ffffff;
+}
+
+.cp{
+    color: #000000;
+    font-size: 0.8rem;
+}
